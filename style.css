@@ -71,6 +71,7 @@ h1{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding:50px 0px;
 }
 .hero-left{
     max-width:600px;
